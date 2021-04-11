@@ -76,3 +76,11 @@ input:not([type="radio"]):not([type="checkbox"]), textarea, select {
 	border-radius: 10px;
 	border: none;
 }
+h1, legend {
+	font-family: 'Shadows Into Light',Arial, Helvetica;
+	font-weight: bold;
+	font-size: 1.5rem;
+}
+h1 {
+	font-size: 3rem;
+}
